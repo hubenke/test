@@ -19,4 +19,8 @@ public class UserController {
         this.userService.add(user);
         return "suc";
     }
+
+    public static void main(String[] args) {
+        System.out.println("akdhsfiahi");
+    }
 }
